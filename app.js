@@ -1,6 +1,6 @@
 console.log('worked');
 
-const purchaseAmount = 1000;
+const purchaseAmount = 100;
 const availableBonuses = 1000;
 
 const maxBonuses = purchaseAmount * 0.5;
